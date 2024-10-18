@@ -9,7 +9,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  
 }
 
 html {
@@ -150,8 +149,6 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
-  height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -167,7 +164,6 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
 }
 
 .section__pic-container {
@@ -306,7 +302,6 @@ section {
 
 .section-container {
   gap: 4rem;
-  height: 80%;
 }
 
 .section__pic-container {
@@ -319,6 +314,7 @@ section {
 
 #experience {
   position: relative;
+  margin-top: 40px;
 }
 
 .experience-sub-title {
@@ -387,7 +383,6 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
 }
 
 .contact-info-upper-container {
